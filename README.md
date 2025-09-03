@@ -1,2 +1,0 @@
-# testfirestore
-testing firestore integration
